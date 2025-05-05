@@ -1,0 +1,15 @@
+Pruebas y Depuración
+
+Casos de prueba (ejemplos):
+
+    Suma: 5 + 3 = 8
+
+    Resta: 10 – 4 = 6
+
+    Multiplicación: 7 × 6 = 42
+
+    División: 8 ÷ 2 = 4; división por cero → captura excepción
+
+    Potencia: 2^10 = 1024
+
+    Raíz cuadrada: √25 = 5; raíz de -9 → excepción
