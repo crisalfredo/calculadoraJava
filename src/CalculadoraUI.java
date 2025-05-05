@@ -1,6 +1,8 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+
+
 public class CalculadoraUI {
     private Scanner scanner = new Scanner(System.in);
 
@@ -23,6 +25,8 @@ public class CalculadoraUI {
             System.out.println();
         }
     }
+
+    //Menu opcion...
 
     private void mostrarMenu() {
         System.out.println("=== Calculadora ===");
